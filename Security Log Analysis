@@ -1,0 +1,20 @@
+# Security Log Analysis
+
+## Overview
+Introductory cybersecurity project focused on analyzing security logs to detect suspicious activity.
+
+## Tools
+- Linux
+- Python
+- Wireshark
+
+## Objectives
+- Log analysis
+- Anomaly detection
+- SOC fundamentals practice
+
+## Dataset
+Simulated security logs (public dataset).
+
+## Status
+In progress
